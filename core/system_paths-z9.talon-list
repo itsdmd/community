@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: z9
+-
+user: /home/itsdmd
+desktop: /home/itsdmd/Desktop
+desk: /home/itsdmd/Desktop
+documents: /home/itsdmd/Documents
+docks: /home/itsdmd/Documents
+downloads: /home/itsdmd/Downloads
+music: /home/itsdmd/Music
+pictures: /home/itsdmd/Pictures
+videos: /home/itsdmd/Videos
+talon home: /home/itsdmd/.talon
+talon recordings: /home/itsdmd/.talon/recordings
+talon user: /home/itsdmd/.talon/user
+home: /home/itsdmd
